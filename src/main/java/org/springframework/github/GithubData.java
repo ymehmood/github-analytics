@@ -14,9 +14,7 @@
  * limitations under the License.
  */
 package org.springframework.github;
-
 import java.util.List;
-
 public class GithubData {
 
 	private List<GithubDatum> data;
